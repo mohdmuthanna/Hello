@@ -2,5 +2,4 @@
 this edit in master only
 this line added in branch2.
 
-
-Hello I am on br3
+Hello, this line added after making br3.
